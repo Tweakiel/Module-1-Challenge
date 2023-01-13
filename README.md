@@ -5,7 +5,7 @@
 For this module, we were given a starting code and our task was to modify it with consideration to the User Story and Acceptance Criteria (Refer Below). Regardless of how the code was changed, the website should still look the same (Refer to Website Demonstration Below). I approached this challenge by using HTML Semantics and efficiently reformatting my css so that it is using less lines and formed into groups. I Personally enjoyed this module since it really opened my eyes into the plethora of ways that anything could be coded, this also teaches us code could be simplified in order to be more efficient when working.
 
 ## User Story
-- AS AN employer
+AS AN employer
 - I WANT to view a potential employee's deployed portfolio of work samples
 - SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
